@@ -3,7 +3,8 @@
     scroll-behavior: smooth;
 }
 body{
-    background-color: #cffff1;
+    background: rgb(7, 40, 34);
+    background: linear-gradient(90deg, rgba(32,165,127,1) 100%, rgba(39,126,101,1) 49%,  rgba(7,40,34,1) 0% );
 }
 #top{
     color: white;
